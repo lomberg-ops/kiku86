@@ -50,15 +50,25 @@ export function Footer() {
             { label: 'Menu', href: '/menu' },
             { label: 'Location', href: '/#location' },
             { label: 'Contact', href: '/#contact' },
-          ].map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              className="text-xs text-white/30 hover:text-white/70"
-            >
-              {link.label}
-            </Link>
-          ))}
+          ].map((link) =>
+            link.href.startsWith('/#') ? (
+              <a
+                key={link.href}
+                href={link.href}
+                className="text-xs text-white/30 hover:text-white/70"
+              >
+                {link.label}
+              </a>
+            ) : (
+              <Link
+                key={link.href}
+                href={link.href}
+                className="text-xs text-white/30 hover:text-white/70"
+              >
+                {link.label}
+              </Link>
+            )
+          )}
         </nav>
       </div>
     </footer>

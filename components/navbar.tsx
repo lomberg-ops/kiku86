@@ -23,11 +23,13 @@ export function Navbar() {
 
     const id = href.slice(2)
 
+    e.preventDefault()
+
     if (pathname === '/') {
-      e.preventDefault()
       document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' })
+    } else {
+      window.location.href = href
     }
-    // If on another page, let the browser do a full navigation to /#section
   }
 
   function NavLink({ href, label }: { href: string; label: string }) {

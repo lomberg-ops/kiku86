@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import Link from 'next/link'
 
 export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false)
@@ -16,18 +17,18 @@ export function Navbar() {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border">
       <div className="max-w-5xl mx-auto px-6 h-14 flex items-center justify-between">
-        <a href="/" className="font-serif text-xl font-bold tracking-tight text-foreground">
+        <Link href="/" className="font-serif text-xl font-bold tracking-tight text-foreground">
           Kiku86
-        </a>
+        </Link>
         <nav className="hidden md:flex items-center gap-8">
           {links.map((link) => (
-            <a
+            <Link
               key={link.href}
               href={link.href}
               className="text-sm text-muted-foreground hover:text-foreground"
             >
               {link.label}
-            </a>
+            </Link>
           ))}
         </nav>
         <div className="flex items-center gap-3">
@@ -53,14 +54,14 @@ export function Navbar() {
       {mobileOpen && (
         <nav className="md:hidden border-t border-border bg-background px-6 py-4 flex flex-col gap-4">
           {links.map((link) => (
-            <a
+            <Link
               key={link.href}
               href={link.href}
               onClick={() => setMobileOpen(false)}
               className="text-sm text-muted-foreground hover:text-foreground"
             >
               {link.label}
-            </a>
+            </Link>
           ))}
         </nav>
       )}

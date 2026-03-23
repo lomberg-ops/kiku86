@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 export function Footer() {
   return (
     <footer className="bg-foreground text-primary-foreground py-12 px-6">
@@ -49,13 +51,13 @@ export function Footer() {
             { label: 'Location', href: '/#location' },
             { label: 'Contact', href: '/#contact' },
           ].map((link) => (
-            <a
+            <Link
               key={link.href}
               href={link.href}
               className="text-xs text-white/30 hover:text-white/70"
             >
               {link.label}
-            </a>
+            </Link>
           ))}
         </nav>
       </div>

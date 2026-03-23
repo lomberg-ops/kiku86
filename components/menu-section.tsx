@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 
 const menuItems = [
   {
@@ -62,12 +63,12 @@ export function MenuSection() {
         </div>
 
         <div className="text-center">
-          <a
+          <Link
             href="/menu"
             className="inline-flex items-center justify-center border border-border text-foreground text-sm font-medium px-8 py-3 rounded hover:bg-muted"
           >
             See Full Menu
-          </a>
+          </Link>
         </div>
       </div>
     </section>

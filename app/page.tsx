@@ -6,9 +6,6 @@ import { HoursSection } from '@/components/hours-section'
 import { LocationSection } from '@/components/location-section'
 import { Footer } from '@/components/footer'
 
-export const dynamic = 'force-dynamic'
-export const revalidate = 0
-
 export default function Home() {
   return (
     <main className="w-full">

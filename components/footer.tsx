@@ -22,10 +22,10 @@ export function Footer() {
         <div>
           <p className="text-xs uppercase tracking-widest text-white/40 mb-3">Contact</p>
           <a
-            href="tel:0440551986"
+            href="tel:+358440551986"
             className="text-sm text-white/70 hover:text-white"
           >
-            044 0551986
+            +358 44 0551986
           </a>
         </div>
 

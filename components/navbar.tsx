@@ -32,7 +32,7 @@ export function Navbar() {
         </nav>
         <div className="flex items-center gap-3">
           <a
-            href="tel:0440551986"
+            href="tel:+358440551986"
             className="text-sm font-medium bg-primary text-primary-foreground px-4 py-2 rounded"
           >
             Call Now

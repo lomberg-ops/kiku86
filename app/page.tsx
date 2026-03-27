@@ -29,7 +29,7 @@ export default function Home() {
           <div className="max-w-2xl">
             {/* Update data-restaurant slug after restaurant signup */}
             <iframe
-              src="https://booking.klarsystems.com/book/kiku?color=%23a0785a"
+              src="https://booking.klarsystems.com/book/kiku"
               style={{
                 width: '100%',
                 border: 'none',

@@ -10,7 +10,7 @@ export function ContactSection() {
         <div className="max-w-2xl">
           {/* Update data-restaurant slug after restaurant signup */}
           <iframe
-            src="https://booking.klarsystems.com/book/kiku-86"
+            src="https://booking.klarsystems.com/book/kiku?color=%23a0785a"
             style={{
               width: '100%',
               border: 'none',

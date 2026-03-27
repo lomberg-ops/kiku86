@@ -5,6 +5,7 @@ import { AboutSection } from '@/components/about-section'
 import { HoursSection } from '@/components/hours-section'
 import { LocationSection } from '@/components/location-section'
 import { Footer } from '@/components/footer'
+import { BookingWidget } from '@/components/booking-widget'
 
 export const dynamic = 'force-dynamic'
 export const revalidate = 0
@@ -28,18 +29,7 @@ export default function Home() {
           </div>
           <div className="max-w-2xl">
             {/* Update data-restaurant slug after restaurant signup */}
-            <iframe
-              src="https://booking.klarsystems.com/book/kiku"
-              style={{
-                width: '100%',
-                border: 'none',
-                minHeight: '700px',
-                borderRadius: '8px',
-                background: '#ffffff',
-              }}
-              title="Book a table at Kiku 86"
-              allow="clipboard-write"
-            />
+            <BookingWidget restaurant="kiku" />
           </div>
         </div>
       </section>

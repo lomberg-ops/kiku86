@@ -1,3 +1,5 @@
+import { BookingWidget } from './booking-widget'
+
 export function ContactSection() {
   return (
     <section id="contact" className="py-20 px-6 bg-muted">
@@ -9,18 +11,7 @@ export function ContactSection() {
 
         <div className="max-w-2xl">
           {/* Update data-restaurant slug after restaurant signup */}
-          <iframe
-            src="https://booking.klarsystems.com/book/kiku"
-            style={{
-              width: '100%',
-              border: 'none',
-              minHeight: '700px',
-              borderRadius: '8px',
-              background: '#ffffff',
-            }}
-            title="Book a table at Kiku 86"
-            allow="clipboard-write"
-          />
+          <BookingWidget restaurant="kiku" />
         </div>
       </div>
     </section>

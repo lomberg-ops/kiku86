@@ -22,8 +22,8 @@ Kiku86 is a sushi and Japanese restaurant website featuring:
 - **Forms**: React Hook Form
 
 ## Booking System
-- Widget URL: https://booking.klarsystems.com/book/kiku-86
-- Admin: https://booking.klarsystems.com/admin/kiku-86/login
+- Widget URL: https://booking.klarsystems.com/book/kiku
+- Admin: https://booking.klarsystems.com/admin/kiku/login
 - Managed by Klar Systems (booking.klarsystems.com)
 
 ## Project Structure

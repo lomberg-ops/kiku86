@@ -1,0 +1,128 @@
+{
+  "restaurant": "Kiku86",
+  "extracted_date": "2026-04-02",
+  "source": "https://wolt.com/fi/fin/helsinki/restaurant/kiku861",
+  "categories": [
+    {
+      "name": "Tilatuimmat",
+      "note": "Most ordered items (also appear in their primary categories)",
+      "items": [
+        {"name": "Miso soup","price": 3.9,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b7e","allergens": [],"variants": [],"extras": []},
+        {"name": "Avocado Nigiri 2pcs","price": 3.0,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/f00b488c-5625-11ee-89a7-f2dd752af708_04_avocado.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Seared salmon Nigiri 2pcs","price": 4.5,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b83","allergens": [],"variants": [],"extras": []},
+        {"name": "Prawn Nigiri 2pcs","price": 3.5,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b7f","allergens": [],"variants": [],"extras": []},
+        {"name": "Botan (Nigiri only) 12pcs","price": 17.9,"description": "Salmon nigiri x 2pcs, Surf clam / Squid nigiri x 2pcs, Eel nigiri x 2pcs, Seared salmon nigiri x 2pcs, California nigiri x 2pcs, White fish / Mackerel nigiri x 2pcs","image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/a6a98d3c-5627-11ee-938e-765f9a66cfcd_36_botan_set.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Kiku 14pcs","price": 15.9,"description": "Salmon nigiri x 2pcs, Prawn nigiri x 2pcs, Avocado nigiri x 2pcs, Seared Salmon nigiri x 2pcs, Kappasake maki x 2pcs, California maki x 2pcs, Surimi Avocado maki x 2pcs","image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/a4161d60-5627-11ee-8af7-f687fd78f631_34_kiku_set.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Momo 14pcs","price": 16.9,"description": "Salmon nigiri x 4pcs, Seared salmon nigiri x 2pcs, Kabayaki salmon nigiri x 2pcs, Sakemaki x 6pcs","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f9b","allergens": [],"variants": [],"extras": []},
+        {"name": "Renge (Veggie) 14pcs","price": 14.9,"description": "Avocado nigiri x 2pcs, Inari tofu nigiri x 2pcs, Inari-avocado nigiri x 1pcs, Wakame gunkan x 1pcs, Veggie maki x 8pcs","image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/65b8c34c-5627-11ee-a98e-6a6f1617bb0c_37_vege_set.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Sakura 16pcs","price": 18.9,"description": "Salmon nigiri x 2pcs, White fish nigiri x 1pcs, Seared salmon nigiri x 1pcs, Seared mackerel nigiri x 1pcs, Seared prawn nigiri x 1pcs, Kabayaki salmon nigiri x 1pcs, California nigiri x 1pcs, Tunamayo nigiri x 1pcs, Avocado nigiri x 1pcs, California maki x 2pcs, Kappasake maki x 2pcs, Surimi Avocado maki x 2pcs","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f9e","allergens": [],"variants": [],"extras": []},
+        {"name": "Salmon Lovers 32pcs","price": 39.9,"description": "Salmon sashimi x 4pcs, Flamed salmon sashimi x2, Salmon nigiri x 8pcs, Flamed salmon nigiri x 4pcs, Kabayaki salmon nigiri x 4pcs, Black Dragon maki x 10pcs","image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b82","allergens": [],"variants": [],"extras": []},
+        {"name": "California maki 8-10 pcs","price": 8.9,"description": "Ebi, avocado, mayonnaise, sesames, kabayaki sauce","image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b7a","allergens": [],"variants": [],"extras": []},
+        {"name": "Yakisake maki 8-10 pcs","price": 9.5,"description": "Seared salmon, avocado, pickle daikon, chili mayonnaise, chives, sesame, fried onion","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111fa6","allergens": [],"variants": [],"extras": []}
+      ]
+    },
+    {
+      "name": "Starters",
+      "items": [
+        {"name": "Miso soup","price": 3.9,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b7e","allergens": [],"variants": [],"extras": []},
+        {"name": "Edamame","price": 4.5,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b7b","allergens": [],"variants": [],"extras": [],"sold_out": true},
+        {"name": "Seaweed salad","price": 4.9,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b84","allergens": [],"variants": [],"extras": []}
+      ]
+    },
+    {
+      "name": "Super Bowl",
+      "items": [
+        {"name": "Build your own bowl","price": 15.9,"description": "Build your own bowl with choice of base, toppings (first 2 included, max 11), and dressing","image_url": null,"allergens": [],"variants": [],"extras": [{"name": "Base: Salad","price": 0.0},{"name": "Base: Salad + Soba Noodle","price": 0.0},{"name": "Base: Salad + Rice","price": 0.0},{"name": "Topping: Teriyaki Chicken (first 2 free)","price": 0.0},{"name": "Topping: Raw Salmon (first 2 free)","price": 0.0},{"name": "Topping: Salmon Kabayaki (first 2 free)","price": 0.0},{"name": "Topping: Surimi / Crab stick (first 2 free)","price": 0.0},{"name": "Topping: Shrimp (first 2 free)","price": 0.0},{"name": "Topping: Avocado (first 2 free)","price": 0.0},{"name": "Topping: Inari tofu (first 2 free)","price": 0.0},{"name": "Topping: Shiitake Mushroom (first 2 free)","price": 0.0},{"name": "Topping: Wakame (first 2 free)","price": 0.0},{"name": "Dressing: Homemade Goma (contains lactose)","price": 0.0},{"name": "Dressing: Wasabi Shoyu","price": 0.0},{"name": "Dressing: Chili Mayo (contains lactose, gluten)","price": 0.0},{"name": "Dressing: Garlic Chili Super Soy Sauce","price": 0.0}]}
+      ]
+    },
+    {
+      "name": "Favorite Bowls",
+      "items": [
+        {"name": "Rice bowl with salad, teriyaki chicken, avocado, Goma sauce","price": 15.5,"description": null,"image_url": null,"allergens": [],"variants": [],"extras": []},
+        {"name": "Rice bowl with salad, salmon kabayaki, avocado, Goma sauce","price": 15.9,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b80","allergens": [],"variants": [],"extras": []},
+        {"name": "Soba bowl with salad, raw salmon, shrimp, wasabi shoyu","price": 15.9,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111fa1","allergens": [],"variants": [],"extras": []}
+      ]
+    },
+    {
+      "name": "Sashimi",
+      "items": [
+        {"name": "Salmon sashimi 4pcs","price": 5.9,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f9f","allergens": [],"variants": [],"extras": []},
+        {"name": "Surf Clam sashimi 4pcs","price": 5.9,"description": null,"image_url": null,"allergens": [],"variants": [],"extras": []},
+        {"name": "Prawn sashimi 4pcs","price": 3.9,"description": null,"image_url": null,"allergens": [],"variants": [],"extras": []}
+      ]
+    },
+    {
+      "name": "Nigiri",
+      "items": [
+        {"name": "Salmon Nigiri 2pcs","price": 3.9,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/d9d81b26-5625-11ee-9bf9-5e51a5208135_salmon_1.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Seared salmon Nigiri 2pcs","price": 4.5,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b83","allergens": [],"variants": [],"extras": []},
+        {"name": "Kabayaki salmon Nigiri 2pcs","price": 4.5,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/a48e2eb4-5626-11ee-9b62-ea92335f2e7d_08_special_grilled_salmon.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Prawn Nigiri 2pcs","price": 3.5,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b7f","allergens": [],"variants": [],"extras": []},
+        {"name": "Seared Prawn Nigiri 2pcs","price": 3.9,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/b12ae176-5626-11ee-8675-5e37ad50ea8b_07_grilled_shrimps.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Surf Clam Nigiri 2pcs","price": 4.5,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/32021b3a-5626-11ee-a5d4-f2dd752af708_10_surf_clam.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Grilled Eel Nigiri 2pcs","price": 4.9,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/4186a210-5626-11ee-a0f2-aa73bde56980_13_grilled_eel.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Seared Mackerel Nigiri 2pcs","price": 3.9,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/ec0945ae-5625-11ee-9748-765f9a66cfcd_12_mackerel.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Avocado Nigiri 2pcs","price": 3.0,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/f00b488c-5625-11ee-89a7-f2dd752af708_04_avocado.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Inari tofu Nigiri 2pcs","price": 3.0,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/020ce6b2-5626-11ee-b775-a6c01336ddbf_17_marinated_tofu.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "California Nigiri 2pcs","price": 4.5,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f97","allergens": [],"variants": [],"extras": []}
+      ]
+    },
+    {
+      "name": "Gunkan",
+      "items": [
+        {"name": "Wakame Gunkan 2pcs","price": 3.5,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/2b57615e-5627-11ee-b066-1e9356930459_20_wakame_gunkan.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Spicy Surimi Gunkan 2pcs","price": 3.9,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/297cf556-5627-11ee-a744-f647885e67e8_18_surimi_gunkan.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Spicy Salmon Gunkan 2pcs","price": 4.5,"description": null,"image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/26d429fa-5627-11ee-a9ce-6e9705077bcc_19_spicy_salmon_gunkan.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Tunamayo Gunkan 2pcs","price": 3.5,"description": null,"image_url": null,"allergens": [],"variants": [],"extras": [],"sold_out": true}
+      ]
+    },
+    {
+      "name": "Sushi Set",
+      "items": [
+        {"name": "Ume 12pcs","price": 13.9,"description": "Salmon nigiri x 2pcs, Seared Prawn nigiri x 2pcs, Avocado nigiri x 2pcs, Kappasake maki x 2pcs, California maki x 2pcs, Suricado maki x 2pcs","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111fa4","allergens": [],"variants": [],"extras": []},
+        {"name": "Renge (Veggie) 14pcs","price": 14.9,"description": "Avocado nigiri x 2pcs, Inari tofu nigiri x 2pcs, Inari-avocado nigiri x 1pcs, Wakame gunkan x 1pcs, Veggie maki x 8pcs","image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/65b8c34c-5627-11ee-a98e-6a6f1617bb0c_37_vege_set.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Kiku 14pcs","price": 15.9,"description": "Salmon nigiri x 2pcs, Prawn nigiri x 2pcs, Avocado nigiri x 2pcs, Seared Salmon nigiri x 2pcs, Kappasake maki x 2pcs, California maki x 2pcs, Surimi Avocado maki x 2pcs","image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/a4161d60-5627-11ee-8af7-f687fd78f631_34_kiku_set.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Momo 14pcs","price": 16.9,"description": "Salmon nigiri x 4pcs, Seared salmon nigiri x 2pcs, Kabayaki salmon nigiri x 2pcs, Sakemaki x 6pcs","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f9b","allergens": [],"variants": [],"extras": []},
+        {"name": "Botan (Nigiri only) 12pcs","price": 17.9,"description": "Salmon nigiri x 2pcs, Surf clam / Squid nigiri x 2pcs, Eel nigiri x 2pcs, Seared salmon nigiri x 2pcs, California nigiri x 2pcs, White fish / Mackerel nigiri x 2pcs","image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/a6a98d3c-5627-11ee-938e-765f9a66cfcd_36_botan_set.jpg","allergens": [],"variants": [],"extras": []},
+        {"name": "Sakura 16pcs","price": 18.9,"description": "Salmon nigiri x 2pcs, White fish nigiri x 1pcs, Seared salmon nigiri x 1pcs, Seared mackerel nigiri x 1pcs, Seared prawn nigiri x 1pcs, Kabayaki salmon nigiri x 1pcs, California nigiri x 1pcs, Tunamayo nigiri x 1pcs, Avocado nigiri x 1pcs, California maki x 2pcs, Kappasake maki x 2pcs, Surimi Avocado maki x 2pcs","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f9e","allergens": [],"variants": [],"extras": []},
+        {"name": "Grilled Master 16pcs","price": 19.9,"description": "Flamed salmon nigiri x 2pcs, Eel nigiri x 2pcs, Grilled Prawn nigiri x 2pcs, Flamed white fish / Grilled mackerel nigiri x 2pcs, Yakisake maki x 8pcs","image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/5fceb1b2-5627-11ee-8525-ea92335f2e7d_38_grilled_master.jpg","allergens": [],"variants": [],"extras": []}
+      ]
+    },
+    {
+      "name": "Special Set",
+      "items": [
+        {"name": "Kawaii 8pcs","price": 7.9,"description": "Seared salmon nigiri x2pcs, Cucumber maki x 6pcs","image_url": null,"allergens": [],"variants": [],"extras": []},
+        {"name": "Oishii 6pcs","price": 8.9,"description": "Salmon nigiri x 3pcs, Seared Salmon nigiri x 3pcs","image_url": null,"allergens": [],"variants": [],"extras": []},
+        {"name": "Salmon Lovers 32pcs","price": 39.9,"description": "Salmon sashimi x 4pcs, Flamed salmon sashimi x2, Salmon nigiri x 8pcs, Flamed salmon nigiri x 4pcs, Kabayaki salmon nigiri x 4pcs, Black Dragon maki x 10pcs","image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b82","allergens": [],"variants": [],"extras": []},
+        {"name": "Full house 80pcs","price": 89.9,"description": "Salmon nigiri x 8pcs, White fish nigiri x 4pcs, Surf clam nigiri x 4pcs, Seared Salmon nigiri x 4pcs, Prawn nigiri x 4pcs, Kabayaki salmon nigiri x 4pcs, Avocado nigiri x 4pcs, Inari nigiri x 4pcs, California nigiri x 4pcs, Sashimi x 4pcs, Maki California x 8pcs, Kappasake maki x 8pcs, Surcado maki x 8pcs, Veggie maki x 8pcs","image_url": null,"allergens": [],"variants": [],"extras": []}
+      ]
+    },
+    {
+      "name": "Maki",
+      "items": [
+        {"name": "Kappamaki (cucumber) 6pcs","price": 4.9,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f99","allergens": [],"variants": [],"extras": []},
+        {"name": "Avocado maki 6pcs","price": 4.9,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b79","allergens": [],"variants": [],"extras": []},
+        {"name": "Sakemaki (salmon) 6pcs","price": 5.9,"description": null,"image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b81","allergens": [],"variants": [],"extras": []},
+        {"name": "Suricado maki 8-10 pcs","price": 7.9,"description": "Crab stick, avocado, sesame, mayonnaise, kabayaki sauce","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111fa2","allergens": [],"variants": [],"extras": []},
+        {"name": "Spicy tuna maki 8-10 pcs","price": 7.9,"description": "Spicy tuna mayonnaise, cucumber, sesame, mayonnaise, kabayaki sauce, chives, fried onion","image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b85","allergens": [],"variants": [],"extras": [],"sold_out": true},
+        {"name": "Kappasake 8-10 pcs","price": 8.5,"description": "Salmon, cucumber, chili mayonnaise, sesames, kabayaki sauce, chives","image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b7d","allergens": [],"variants": [],"extras": []},
+        {"name": "Florida maki 8-10 pcs","price": 8.9,"description": "Salmon, avocado, mayonnaise, sesames, kabayaki sauce, chives, fried onion","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f98","allergens": [],"variants": [],"extras": []},
+        {"name": "California maki 8-10 pcs","price": 8.9,"description": "Ebi, avocado, mayonnaise, sesames, kabayaki sauce","image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b7a","allergens": [],"variants": [],"extras": []},
+        {"name": "Veggie maki 8-10 pcs","price": 8.9,"description": "Tofu, avocado, pickle daikon / cucumber, wakame, sesame, mayonnaise, kabayaki sauce","image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b89","allergens": [],"variants": [],"extras": []},
+        {"name": "Yakisake maki 8-10 pcs","price": 9.5,"description": "Seared salmon, avocado, pickle daikon, chili mayonnaise, chives, sesame, fried onion","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111fa6","allergens": [],"variants": [],"extras": []},
+        {"name": "Unagi maki 8-10 pcs","price": 9.9,"description": "Grilled eels, avocado, pickle daikon, kabayaki sauce, sesames, chives / leek","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111fa5","allergens": [],"variants": [],"extras": []},
+        {"name": "Kikufuto maki 8-10 pcs","price": 10.9,"description": "Salmon, crab stick, inari tofu, avocado, wakame, pickle daikon / cucumber, mayonnaise, kimchi sesame, kabayaki sauce, chives, fried onion","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f9a","allergens": [],"variants": [],"extras": []},
+        {"name": "Green Dragon 8-10 pcs","price": 12.9,"description": "Salmon, cucumber, wakame, spicy mayonnaise, covered with avocado, kabayaki sauce, fried onion","image_url": "https://imageproxy.wolt.com/assets/65d5ac5bd8024b6882538b7c","allergens": [],"variants": [],"extras": []},
+        {"name": "Red Dragon 8-10 pcs","price": 12.9,"description": "California maki covered with salmon, mayonnaise, kabayaki sauce, caviar, chives","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f9c","allergens": [],"variants": [],"extras": []},
+        {"name": "Black Dragon 8-10 pcs","price": 13.5,"description": "California maki covered with seared salmon, chili mayonnaise, kabayaki sauce, caviar, leek, fried onion","image_url": "https://imageproxy.wolt.com/assets/65d5ac5b9052d61727111f96","allergens": [],"variants": [],"extras": []}
+      ]
+    },
+    {
+      "name": "Soup",
+      "items": [
+        {"name": "Tom Kha","price": 15.9,"description": "Creamy, spicy (Moderately) sweet and sour Thai's soup","image_url": "https://imageproxy.wolt.com/menu/menu-images/shared/cdc66d50-5626-11ee-a350-f687fd78f631_39_tomkha_soup.jpg","allergens": [],"variants": [],"extras": [{"name": "Base: Jasmine steamed rice","price": 0.0},{"name": "Base: Rice noodle","price": 0.0},{"name": "Protein: Seafood","price": 0.0},{"name": "Protein: Chicken","price": 0.0},{"name": "Protein: Salmon","price": 0.0},{"name": "Protein: Tofu","price": 0.0}]},
+        {"name": "Kimchi Jjigae","price": 16.9,"description": "Heavenly rich taste, hot and spicy (moderately) Korean traditional Kimchi Stew","image_url": null,"allergens": [],"variants": [],"extras": [{"name": "Base: Jasmine steamed rice","price": 0.0},{"name": "Base: Rice noodle","price": 0.0},{"name": "Protein: Seafood","price": 0.0},{"name": "Protein: Chicken","price": 0.0},{"name": "Protein: Beef","price": 0.0},{"name": "Protein: Pork","price": 0.0},{"name": "Protein: Tofu","price": 0.0}]}
+      ]
+    }
+  ]
+}

@@ -33,8 +33,10 @@ export function Footer() {
         <div>
           <p className="text-xs uppercase tracking-widest text-white/40 mb-3">Hours</p>
           <ul className="text-sm text-white/70 space-y-1">
-            <li>Mon – Fri: 11:00 – 21:00</li>
-            <li>Sat – Sun: 12:00 – 21:00</li>
+            <li>Mon – Thu: 11:00 – 22:00</li>
+            <li>Fri: 11:00 – 23:00</li>
+            <li>Sat: 12:00 – 23:00</li>
+            <li>Sun: 12:00 – 22:00</li>
           </ul>
         </div>
       </div>

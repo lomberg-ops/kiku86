@@ -1,6 +1,8 @@
 const hours = [
-  { day: 'Monday – Friday', time: '11:00 – 21:00' },
-  { day: 'Saturday – Sunday', time: '12:00 – 21:00' },
+  { day: 'Monday – Thursday', time: '11:00 – 22:00' },
+  { day: 'Friday', time: '11:00 – 23:00' },
+  { day: 'Saturday', time: '12:00 – 23:00' },
+  { day: 'Sunday', time: '12:00 – 22:00' },
 ]
 
 export function HoursSection() {
